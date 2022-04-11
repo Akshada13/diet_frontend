@@ -1,6 +1,3 @@
-# Dietzone Client Deployed link [click here](https://muthu-diet-client.netlify.app/)
-
-# Dietzone Server Deployed link [click here](https://github.com/mkandanmk7/DietZone-Application-Client)
 
 ## Features:
 
