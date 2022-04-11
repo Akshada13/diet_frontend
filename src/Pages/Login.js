@@ -145,19 +145,8 @@ const Login = () => {
                           fontSize: "1.5rem",
                         }}
                       >
-                        Use This Credentials for test Purpose
+                       
                       </h3>
-                      <div
-                        style={{ color: "white", borderTop: "1px solid white" }}
-                      >
-                        <p>
-                          <b>Email</b> : akshutest1397@gmail.com
-                        </p>
-                        <p>
-                          {" "}
-                          <b>Password</b> : akshu123
-                        </p>
-                      </div>
                     </div>
                   </div>
                 )}
